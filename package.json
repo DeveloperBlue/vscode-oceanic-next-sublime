@@ -20,6 +20,7 @@
         "next",
         "dark"
     ],
+    "icon": "./icon.png",
     "contributes": {
         "themes": [
             {
