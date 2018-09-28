@@ -1,8 +1,8 @@
 # Oceanic Next Sublime
 
-Oceanic Next Sublime is a color scheme designed to emulate the appearance of the [Oceanic Next theme](https://github.com/voronianski/oceanic-next-color-scheme) on the Sublime Text 3 text editor. If you are migrating to VS Code but prefer the appearance of Sublime + Oceanic Next, then this extension is for you.
-
 ![Oceanic Next Sublime](https://i.imgur.com/YTZAnSS.png)
+
+Oceanic Next Sublime is a color scheme designed to emulate the appearance of the [Oceanic Next theme](https://github.com/voronianski/oceanic-next-color-scheme) on the Sublime Text 3 text editor. If you are migrating to VS Code but prefer the appearance of Sublime + Oceanic Next, then this extension is for you.
 
 ## Complimentary Settings
 
