@@ -6,7 +6,9 @@ Oceanic Next Sublime is a color scheme designed to emulate the appearance of the
 
 ## Complimentary Settings
 
-In addition to color changes, these settings help approximate the Sublime experience.
+Add any or all of the following settings to your `settings.json`.
+These settings help approximate the Sublime experience.
+
 
 ### UI Appearance
 
