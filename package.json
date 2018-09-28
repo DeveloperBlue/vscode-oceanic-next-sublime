@@ -1,9 +1,12 @@
 {
     "name": "vscode-oceanic-next-sublime",
     "displayName": "Oceanic Next Sublime",
-    "description": "Oceanic Next on Sublime for Visual Studio Code",
+    "description": "Oceanic Next theme for VS Code with a dash of Sublime",
     "version": "0.0.1",
     "publisher": "aytee17",
+    "repository": {
+        "url": "https://github.com/aytee17/vscode-oceanic-next-sublime"
+    },
     "engines": {
         "vscode": "^1.27.0"
     },
@@ -15,7 +18,6 @@
         "text",
         "oceanic",
         "next",
-        "theme",
         "dark"
     ],
     "contributes": {
