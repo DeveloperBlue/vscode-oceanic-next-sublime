@@ -21,6 +21,10 @@
         "dark"
     ],
     "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#1b2b34",
+        "theme": "dark"
+    },
     "contributes": {
         "themes": [
             {
