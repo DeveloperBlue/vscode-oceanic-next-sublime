@@ -1,0 +1,35 @@
+{
+    "name": "vscode-oceanic-next-sublime",
+    "displayName": "Oceanic Next Sublime",
+    "description": "Oceanic Next on Sublime for Visual Studio Code",
+    "version": "0.0.1",
+    "publisher": "aytee17",
+    "engines": {
+        "vscode": "^1.27.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "sublime",
+        "text",
+        "oceanic",
+        "next",
+        "theme",
+        "dark"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Oceanic Next Sublime",
+                "uiTheme": "vs-dark",
+                "path": "./themes/oceanic-next-sublime.json"
+            },
+            {
+                "label": "Oceanic Next Sublime + Sweet Bar",
+                "uiTheme": "vs-dark",
+                "path": "./themes/oceanic-next-sublime-sweet-bar.json"
+            }
+        ]
+    }
+}
