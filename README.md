@@ -45,4 +45,4 @@ These settings help approximate the Sublime experience.
 "editor.matchBrackets": false
 ```
 
-**Enjoy!**
+**Enjoy!** 🌊
