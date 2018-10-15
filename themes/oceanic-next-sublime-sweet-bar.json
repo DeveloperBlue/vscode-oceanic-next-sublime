@@ -240,6 +240,7 @@
             "name": "Attributes",
             "scope": "entity.other.attribute-name",
             "settings": {
+                "fontStyle": "italic",
                 "foreground": "#BB80B3"
             }
         },
