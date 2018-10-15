@@ -248,6 +248,7 @@
             "name": "CSS Attributes",
             "scope": "entity.other.attribute-name.class.css",
             "settings": {
+                "fontStyle": "",
                 "foreground": "#BB80B3"
             }
         },
