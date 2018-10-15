@@ -245,6 +245,13 @@
             }
         },
         {
+            "name": "CSS Attributes",
+            "scope": "entity.other.attribute-name.class.css",
+            "settings": {
+                "foreground": "#BB80B3"
+            }
+        },
+        {
             "name": "Inserted",
             "scope": "markup.inserted",
             "settings": {
