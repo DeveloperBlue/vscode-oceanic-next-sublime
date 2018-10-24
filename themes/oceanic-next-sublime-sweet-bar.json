@@ -21,6 +21,7 @@
         "editorCursor.foreground": "#c0c5ce",
         "editorGroupHeader.tabsBackground": "#1b2b34",
         "editorGroupHeader.tabsBorder": "#343d46",
+        "editorRuler.foreground": "#ffffff22",
         "editorLineNumber.foreground": "#707880",
         "editorSuggestWidget.background": "#1b2b34",
         "editorSuggestWidget.border": "#6699cc",
