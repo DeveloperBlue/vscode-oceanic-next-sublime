@@ -1,11 +1,11 @@
 {
     "name": "vscode-oceanic-next-sublime",
     "displayName": "Oceanic Next Sublime",
-    "description": "Oceanic Next theme for VS Code with a dash of Sublime",
-    "version": "0.0.20",
+    "description": "Personally modified Oceanic Next theme for VS Code",
+    "version": "0.0.21",
     "publisher": "aytee17",
     "repository": {
-        "url": "https://github.com/aytee17/vscode-oceanic-next-sublime"
+        "url": "https://github.com/DeveloperBlue/vscode-oceanic-next-sublime"
     },
     "engines": {
         "vscode": "^1.27.0"
@@ -36,6 +36,11 @@
                 "label": "Oceanic Next Sublime + Sweet Bar",
                 "uiTheme": "vs-dark",
                 "path": "./themes/oceanic-next-sublime-sweet-bar.json"
+            },
+            {
+                "label": "Modified Oceanic Next Sublime + Sweet Bar",
+                "uiTheme": "vs-dark",
+                "path": "./themes/oceanic-next-sublime-sweet-bar-modified.json"
             }
         ]
     }
