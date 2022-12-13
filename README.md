@@ -6,7 +6,7 @@
 Added third theme with modified colors
 - Changes Class, Support Foreground color from ![#FAC863](https://placehold.it/150x40/FAC863/FFFFFF?text=FAC863) to ![#EC5F67](https://placehold.it/150x40/EC5F67/FFFFFF?text=EC5F67)
 
-###Other modifications:###
+### Other modifications: ###
 - Editor: Cursor Blinking: Phase
 - Editor: Cursor Smooth Caret Animation: true
 - Font Family: Consolas, 'Fira Code', 'Courier New', monospace
