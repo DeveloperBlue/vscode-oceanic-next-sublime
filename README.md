@@ -39,6 +39,13 @@ These settings help approximate the Sublime experience.
 "explorer.openEditors.visible": 0,
 "workbench.activityBar.visible": false,
 "workbench.statusBar.feedback.visible": false,
+
+"workbench.colorCustomizations": {
+  "titleBar.activeBackground": "#051218",
+  "titleBar.activeForeground": "#ffffffc0",
+  "titleBar.inactiveBackground": "#051218"
+},
+"window.titleBarStyle": "custom"
 ```
 
 ### Editor Appearance
